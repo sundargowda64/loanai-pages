@@ -1,2 +1,16 @@
+# macOS
 .DS_Store
+
+# Archives
 *.zip
+
+# VS Code
+.vscode/
+
+# Backend (not part of frontend Pages deploy)
+backend/
+
+# Environment files
+.env
+.env.*
+
